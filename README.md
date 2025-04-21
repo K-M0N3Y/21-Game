@@ -22,13 +22,19 @@ The 21-Game is a fun and interactive console-based game where a player faces off
    - If your total goes over 21, you "bust" and lose the game.
    - The dealer will draw cards until their total is 16 or higher.
 
+![Screenshot 2025-04-20 205244](https://github.com/user-attachments/assets/04237539-e751-48af-9522-ca0b4f57e8b8)
+
 3. **Winning the Game**:
    - If your hand is closer to 21 than the dealer’s, you win.
    - If the dealer's total exceeds 21, you win by default.
    - If both you and the dealer have the same total, it's a tie.
 
+![Screenshot 2025-04-20 205353](https://github.com/user-attachments/assets/5207eaf7-06f4-4403-a882-9d7eb04eea23)
+
 4. **Ending the Game**:
    - The game will end when either the player wins, the dealer wins, or both have tied.
+
+![Screenshot 2025-04-20 205411](https://github.com/user-attachments/assets/7e9c2549-15a4-46cd-ac48-1fd722dc016b)   
 
 ## Known Issues
 
